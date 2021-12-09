@@ -1,0 +1,78 @@
+[
+    {
+      "dn": "ou=services, o=nhs", 
+      "objectclass": "nhsmhs",
+      "nhsmhssvcia": "urn:nhs:names:services:gpconnect:fhir:rest:read:patient-1",
+      "nhsidcode": "a12345",
+      "nhsmhsendpoint": "http://localhost:8080/GpConnect",
+      "nhsmhspartykey": "nhsmhspartykeya12345"
+    },
+    {
+      "dn": "ou=services, o=nhs", 
+      "objectclass": "nhsmhs",
+      "nhsmhssvcia": "urn:nhs:names:services:gpconnect:fhir:rest:search:slot-1",
+      "nhsidcode": "a12345",
+      "nhsmhsendpoint": "http://localhost:8080/GpConnect",
+      "nhsmhspartykey": "nhsmhspartykeya12345"
+    },
+    {
+      "dn": "ou=services, o=nhs", 
+      "objectclass": "nhsas",
+      "nhsmhssvcia": "",
+      "nhsidcode": "a12345",
+      "nhsmhsendpoint": "http://localhost:8080/GpConnect",
+      "nhsmhspartykey": "nhsmhspartykeya12345",
+      "uniqueidentifier": "200000021125"
+    },
+    {
+      "dn": "ou=services, o=nhs", 
+      "objectclass": "nhsmhs",
+      "nhsmhssvcia": "urn:nhs:names:services:gpconnect:fhir:rest:read:patient-1",
+      "nhsidcode": "a23456",
+      "nhsmhsendpoint": "http://localhost:8080/GpConnect",
+      "nhsmhspartykey": "nhsmhspartykeya23456"
+    },
+    {
+      "dn": "ou=services, o=nhs", 
+      "objectclass": "nhsmhs",
+      "nhsmhssvcia": "urn:nhs:names:services:gpconnect:fhir:rest:search:slot-1",
+      "nhsidcode": "a23456",
+      "nhsmhsendpoint": "http://localhost:8080/GpConnect",
+      "nhsmhspartykey": "nhsmhspartykeya23456"
+    },
+    {
+      "dn": "ou=services, o=nhs", 
+      "objectclass": "nhsas",
+      "nhsmhssvcia": "",
+      "nhsidcode": "a23456",
+      "nhsmhsendpoint": "http://localhost:8080/GpConnect",
+      "nhsmhspartykey": "nhsmhspartykeya23456",
+      "uniqueidentifier": "200000021126"
+    },
+    ,
+    {
+      "dn": "ou=services, o=nhs", 
+      "objectclass": "nhsmhs",
+      "nhsmhssvcia": "urn:nhs:names:services:gpconnect:fhir:rest:read:patient-1",
+      "nhsidcode": "a34567",
+      "nhsmhsendpoint": "http://localhost:8080/GpConnect",
+      "nhsmhspartykey": "nhsmhspartykeya34567"
+    },
+    {
+      "dn": "ou=services, o=nhs", 
+      "objectclass": "nhsmhs",
+      "nhsmhssvcia": "urn:nhs:names:services:gpconnect:fhir:rest:search:slot-1",
+      "nhsidcode": "a34567",
+      "nhsmhsendpoint": "http://localhost:8080/GpConnect",
+      "nhsmhspartykey": "nhsmhspartykeya34567"
+    },
+    {
+      "dn": "ou=services, o=nhs", 
+      "objectclass": "nhsas",
+      "nhsmhssvcia": "",
+      "nhsidcode": "a34567",
+      "nhsmhsendpoint": "http://localhost:8080/GpConnect",
+      "nhsmhspartykey": "nhsmhspartykeya34567",
+      "uniqueidentifier": "200000021127"
+    }
+  ]
